@@ -1,0 +1,2 @@
+# Tatrasauna
+static web
