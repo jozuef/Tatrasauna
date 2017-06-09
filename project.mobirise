@@ -1,0 +1,356 @@
+{
+  "settings": {
+    "name": "sauna",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "colorm",
+      "title": "ColorM",
+      "styling": {
+        "primaryColor": "#f39c12",
+        "buttonsColor": "#000000",
+        "secondaryColor": "#9b59b6",
+        "successColor": "#2ecc71",
+        "infoColor": "#3498db",
+        "warningColor": "#f1c40f",
+        "dangerColor": "#e74c3c",
+        "titleFont": "Arvo",
+        "subtitleFont": "Montserrat",
+        "textFont": "Open Sans",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false
+      }
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 21,
+    "versionPublish": "3.12.1"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".display-1": {
+              "font-weight": "700"
+            },
+            ".lead": {
+              "color": "#fff",
+              "text-transform": "uppercase",
+              "margin-bottom": "0"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#ffffff",
+              "text-align": "left"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-8",
+          "_params": {
+            "buttonAlign": "left",
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/sauna1-2000x1111.jpg",
+            "bgColor": "#16a085",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#e67e22",
+            "showText": true,
+            "showTitle": true,
+            "showButtons": true
+          },
+          "text": "Sauna je pôvodné fínske slovo označujúce malú stavbu alebo miestnosť, <br>ktorá sa po vykúrení používa ako ohrievareť pri saunovani. <br>Vnútro sauny je veľmi dobre izolované od okolia a obložené drevom, <br>ktoré dobre pôsobí na psychiku človeka.",
+          "title": "TATRASAUNA<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary btn-lg\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOMOV</a> <a data-app-btn=\"true\" class=\"btn btn-primary btn-lg\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">GALÉRIA</a> <a data-app-btn=\"true\" class=\"btn btn-primary btn-lg\" href=\"index.html#features1-3\" data-toolbar=\"-mbrBtnMove\">CENNÍK</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">&nbsp;KONTAKT</a>",
+          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "font-weight": "700"
+            },
+            ".mbr-section-subtitle": {
+              "text-transform": "uppercase",
+              "letter-spacing": "2px",
+              "color": "#fff"
+            },
+            ".mbr-section-text": {
+              "text-align": "left"
+            },
+            ".mbr-section-text B": {
+              "text-align": "left"
+            }
+          },
+          "title1": "Bootstrap 4",
+          "title2": "Responsive",
+          "title3": "Web Fonts",
+          "title4": "Unlimited Sites",
+          "title5": "Trendy Website Blocks",
+          "title6": "Host Anywhere",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-3",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/features/03.jpg",
+            "bgColor": "#cf6b28",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.9,
+            "overlayColor": "#2c3e50",
+            "showTitle": false,
+            "columns": "3",
+            "showImages": true,
+            "showTitles": true,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "title": "Features",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/malasauna2-600x375.jpg",
+              "class": "features-img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "phone",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "subtitle1": "SAUNA",
+          "caption1": "Sauna je pôvodné fínske slovo označujúce malú stavbu alebo miestnosť, ktorá sa po vykúrení používa ako ohrievareť pri saunovani. Vnútro sauny je veľmi dobre izolované od okolia a obložené drevom, ktoré dobre pôsobí na psychiku človeka. <br>V saune je saunová pec (kiuas), ktorá vyhreje miestnosť na teplotu od 60 do 120 ˚C, ale dajú sa nájsť sauny, ktoré sú vykúrené na teplotu 130 až 140 ˚C. Vo fínskej saune sú na peci kamene, na ktoré sa občas nalieva voda, aby para ktorá vznikne, na chvíľu zdvihla vlhkosť vzduchu. <br>Vlhkosť vzduchu v saune je obvykle relativne malá, niekolko desiatok percent. V peci sa obvykle kúri drevom, ale často sa používajú aj elektrické pece, najmä v bytových saunách. Niekedy sa používajú aj naftové pece. Jednoduchá sauna môže fungovať aj bez pece. Základom je dobre izolovaná miestnosť, ktorú vyhrievajú kamene, rozžeravené vonku na otvorenom ohni. Toto je pravdepodobne pôvodný systém vykurovania sauny. ",
+          "buttons1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">VIAC</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x400.jpg",
+              "class": "features-img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "edit",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "subtitle2": "sAUNOVANIE",
+          "caption2": "Ohriatie tela na vysokú teplotu je veľmi príjemné a relaxujúce. V saune sa uvolnia svaly a tak isto sa uvolní aj mozog, pretože sa do tela vyplavujú uvolňujúce látky, ako napríklad endorfíny. Neexistuje žiadna doporučená doba, ktorú treba v saune stráviť. Platí iba zlaté pravidlo, ostať v saune pokial sa vám to páči a je príjemné, ale predsa treba brať do úvahy pocity, ako napríklad pálenie nosa a pokožky na tvári. Obvykle k týmto príznakom dochádza po 15 minútach, podľa teploty vzduchu v saune. Každé zdržiavanie sa v teple alebo zime je riziko. Pre lepší pocit v saune sa ľudia vo Fínsku šlahajú brezovými vetvami s listami (fínsky vihta alebo vasta). Pomocou toho sa na kožu dostáva viacej tepla a vdychujú éterické látky z rozdrtených brezových listov. Na Slovensku sa na prekrvenie používajú rôzne pomôcky (kefy, žinky...) a hlavne cielená automasáž. Ochladenie tela sa uskutočňuje buď prostým pabytom na studenom vzduchu alebo prudkým snížením teploty pomocou sprchy či skokom do jazera alebo ochladzovacieho bazénu. Do vody sa skáče bežne, aj ked je hladina zmrznutá. V takom prípade sa do ľadu vyseká diera, tzv. „avanto“. Aj ked to tak nevyzerá, prudké ochladenie vyvoláva príjemné pocity. Na Slovensku je fínske jezero nahradené ochladzovacím bazénikom, alebo pobytom na studenom vzduchu. Skoky do vody sa nedoporučujú luďom s vysokým krvným tlakom. Prudké prehriatie a ochladenie sa opakuje niekolko krát. Pravidelné saunovanie zlepšuje imunitný systém človeka a celkovo kvalitu nášho života, preto je veľmi doporučované. Fíni sa obvykle saunujú nahý. Nudita je povinná z hygienických dôvodov v každej verejnej saune na celom svete a výhodná z fyziologických dôvodou, pretože nahé telo sa dokáže najlepšie chrániť pred prehriatím . Iba v prípade že je sauna zmiešaná, je vhodné zistiť či sa používa plachta. Uteráky sa v saunách nepoužívajú, iba by zavadzali. Po saune je dôležité sa utrieť do sucha. Bežným doplnkom pri saunovaní je čiapka na ochranu vlasov a pokožky hlavy, aj ked v skutočnosti sa pokožka dokáže dostatočne ochrániť. ",
+          "buttons2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">viac</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1-600x400.jpg",
+              "class": "features-img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "briefcase",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "subtitle3": "CENNÍK",
+          "caption3": "Pre 2 osoby, 1 vstup (1 hodina 40 minút) - 10 EUR.<br><span style=\"font-size: 1rem; line-height: 1.85em; background-color: transparent;\">Pre 1 osobu, 1 vstup (1 hodina 40 minút) - 8&nbsp;</span>EUR.<br><span style=\"font-size: 1rem; line-height: 1.85em; background-color: transparent;\">Permanentka na 6 vstupov pre 2 osoby - 50&nbsp;</span>EUR<span style=\"font-size: 1rem; line-height: 1.85em; background-color: transparent;\">.</span><br><span style=\"font-size: 1rem; line-height: 1.85em; background-color: transparent;\">Permanentka na 6 vstupov pre 1 osobu - 40&nbsp;</span>EUR.<br><br><b>Otváracie Hodiny<br></b>Denne od 9:00 do 22:00, len na telefonické objednanie.<br><br>Ponúkame vám fínsku saunu, 2 oddychovacie kreslá, ochladzovacie vedro a sprchu. Mydlo, šampón a toaleta sú samozrejmosťou. Cena zahŕňa pre každého návštevníka jeden uterák a plachtu.<br>",
+          "buttons3": "<a data-app-btn=\"true\" href=\"index.html#contacts1-6\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">KONTAKT</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/features/04.jpg",
+              "class": "features-img",
+              "width": 600
+            },
+            "iconFont": {
+              "active": false,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "subtitle4": "KONTAKT",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "buttons4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/features/05.jpg",
+              "class": "features-img",
+              "width": 600
+            },
+            "iconFont": {
+              "active": false,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "briefcase",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "buttons5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/features/06.jpg",
+              "class": "features-img",
+              "width": 600
+            },
+            "iconFont": {
+              "active": false,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "buttons6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-text": {
+              "color": "#fff"
+            },
+            "P": {
+              "color": "#f39c12"
+            }
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer2",
+          "_anchor": "footer2-4",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a77349",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "&nbsp;<a href=\"http://mobirise.com\">s</a>aunatatry.sk"
+        },
+        {
+          "_styles": {
+            "SPAN": {
+              "font-size": "32px"
+            }
+          },
+          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/features/03.jpg",
+              "class": ""
+            }
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-6",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "bgColor": "#f39c12",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.9,
+            "overlayColor": "#ecf0f1",
+            "showCat1": true,
+            "showCat2": true,
+            "showCat3": true,
+            "showText": true,
+            "showButtons": true,
+            "googleMap": {
+              "address": "Hôrka, Kišovce 331\n\n05912",
+              "placeId": "ChIJDWUj01k3PkcRS4TcbwXkVik",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "cat1": "address",
+          "title1": "Hôrka, Kišovce 331<div><br></div><div>05912</div>",
+          "cat2": "phone",
+          "title2": "+421915948351",
+          "cat3": "email",
+          "title3": "sample@sample.us",
+          "text": "<br>Obchodné meno a IČO<br><span style=\"font-size: 1rem; line-height: 1.85em;\">Pavol Tapušík</span><br><span style=\"font-size: 1rem; line-height: 1.85em;\">IČO: 48215414</span><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-facebook\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-skype mbr-iconfont mbr-iconfont-btn\"></span></a>"
+        }
+      ]
+    }
+  }
+}
