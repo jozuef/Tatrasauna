@@ -1154,7 +1154,7 @@ pre {
 .cid-qmBLI1gZmp {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #ffffff;
+  background-color: #879a9f;
   position: relative;
 }
 .cid-qmBLI1gZmp p {
@@ -1184,6 +1184,9 @@ pre {
   border-radius: 0px;
   border: 0px;
   padding: 0;
+}
+.cid-qmBLI1gZmp P {
+  color: #efefef;
 }
 .cid-qmBQVipQsf {
   padding-top: 45px;
